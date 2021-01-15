@@ -16,3 +16,10 @@ Repository containing hands-on projects from Coursera.
   [Project on Coursera](https://www.coursera.org/learn/scikit-learn-k-means-clustering-image-compression)
 
   Using K-means clustering to compress images with interactive controls.
+
+### Network Data Science with NetworkX and Python
+  [Jupyter Notebook](https://github.com/pedrohortencio/coursera-projects/blob/main/data_science_with_networkx.ipynb)
+
+  [Project on Coursera](https://www.coursera.org/projects/networkx)
+
+  Creating and manipulating graphs using NetworkX and Python.
