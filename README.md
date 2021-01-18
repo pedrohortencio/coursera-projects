@@ -23,3 +23,19 @@ Repository containing hands-on projects from Coursera.
   [Project on Coursera](https://www.coursera.org/projects/networkx)
 
   Creating and manipulating graphs using NetworkX and Python.
+
+### Neural Network from Scratch in TensorFlow
+
+  [Repository](https://github.com/pedrohortencio/coursera-projects/tree/main/Neural%20Network%20from%20Scratch%20in%20TensorFlow)
+
+  [Project on Coursera](https://www.coursera.org/projects/neural-network-tensorflow)
+
+  Creating a neural network from scratch using tensorflow (without the help of Keras).
+
+### Exploratory Data Analysis with Seaborn
+
+  [Repository](https://github.com/pedrohortencio/coursera-projects/tree/main/Exploratory%20Data%20Analysis%20with%20Seaborn)
+
+  [Project on Coursera](https://www.coursera.org/projects/exploratory-data-analysis-seaborn)
+
+  Multiple plots and visualizations using seaborn.
